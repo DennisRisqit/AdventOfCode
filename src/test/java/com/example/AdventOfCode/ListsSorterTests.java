@@ -11,7 +11,7 @@ import java.util.stream.Stream;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class SorterTests {
+public class ListsSorterTests {
     private static Stream<Arguments> InputListsSorter() {
         return Stream.of(
                 Arguments.of(
